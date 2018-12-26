@@ -2,4 +2,11 @@
 
 Demonstrate a typical microservice usecase.
 
-server-config: folder with config files for the microservices. Used by spring-server-config to provide the properties dynamically.
+hello microservice:
+helloworld project to check git sync with egit
+
+server-config: folder withh config files for microservices. Used by spring cloud config server
+
+
+
+
